@@ -24,7 +24,7 @@
     "extra": {
      "laravel": {
          "providers": [
-             "DblibOdbcSqlServer\\Database\\ServiceProvider"
+             "DblibOdbcSqlServer\\Database\\DBILIBServiceProvider"
          ]
      }
    }
